@@ -1,4 +1,5 @@
 # TREASUREHUNT
+
 > John Kotz, Abby Starr, Yixuan He, Shouqi Chen
 
 ## Description
@@ -25,12 +26,73 @@ Now that we have the first prototype, we need to take a step back and take a bet
 3. The beginning of the clue creation feature
 4. User functions (forgot password, set name, saving profile…)
 
+#### Timeline
+
+- End of week of July 8th:
+	- First meeting ✅
+	- Timeline ✅
+	- Make Trello Board ✅
+	- Get everyone access to everything ✅
+- Monday July 11th:
+	- Meet with O team - John
+	- Finish clean database structure ✅ - Abby
+	- Start changing database - Dev
+	- Compile all design instructions into on place ✅ - Design
+- End of week of July 15th:
+	- Plan interface for sign up, feed, and create views - Design
+	- Finish database structure remake - Dev
+	- Update app to use new fonts, colors (?), and full-res icons - Dev
+    	- 3 tabs instead of 5 - Dev
+	- Move all backend code to separate files - Dev
+	- Make database changes in code - Dev
+	- Choose new colors? - Design
+- Monday July 18th:
+	- Have all the art assets in one place - Design
+	- Code is clean and ready for expansion - Dev
+	- Interface for main view and login view done - Dev
+- End of week July 22nd: (John is in SC this week)
+	- Hunt overview (without feed) and hunt completion interface finished - Design
+	- Tags done
+- Monday July 25th:
+	- Search method design - Design
+	- Clue types!
+    	- Data structures planned - Dev
+    	- Icons for interface finalized - Design
+- End of week July 29th:
+  	- Search functionality done - Dev
+	- (some extra time for expansion)
+	- Sudoku/Crossword prototype - Dev & Design
+	- Design for feed and create tab done
+- Monday August 1st:
+	- Other prototype (I think that once we have one making the other would be just as easy) - Dev & Design
+- End of week August 5th:
+	- Finalize prototypes - Dev
+	- Begin feed and/or create tab - Dev
+	- Start porting over to Android - Dev
+- Monday August 8th:
+	- Begin feed and/or create view (room to expand if needed) - Dev
+- End of week August 12th:
+	- Finish one (feed for create view) - Dev
+	- Porting over to Android - Dev
+- End of week of August 19:
+	- Finish the other - Dev
+	- Porting over to Android - Dev
+- After:
+	- If we have more time we can expand into the end of the term if needed.
+	- TODO: Check dates of end of term and beginning of orientation
+- DELIVER:
+	- Routinely upload builds to TestFlight
+	- Release on App store at least 3 days in advance to Orientation.
+
+
+TODO: Update security settings
+
 ## Team Members:
 
 __Client__: Amanda Lobel
 
 __Designers__: Yixuan He, Shouqi Chen
 
-__Developers__: Dani Gnibus, John Kotz
+__Developers__: Abby Starr, John Kotz
 
 __Project Manager__: John Kotz
